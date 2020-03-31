@@ -15,7 +15,7 @@ keyring==10.6.0
 keyrings.alt==3.0
 MarkupSafe==1.1.1
 MIDIUtil==1.2.1
-Pillow==6.0.0
+Pillow==6.2.0
 psycopg2==2.8.4
 pycrypto==2.6.1
 PyJWT==1.7.1
